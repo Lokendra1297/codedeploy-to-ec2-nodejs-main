@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/ubuntu
-sudo apt-get install nodejs
+apt-get install nodejs
