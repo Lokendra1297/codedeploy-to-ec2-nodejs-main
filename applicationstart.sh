@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/ubuntu
-node index.js
+node server.js
